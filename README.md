@@ -19,4 +19,4 @@ some inforamtion :
   3- we assign for each player set of positions to confirom if user or computer reach to goal or no
   
 #ScreenShots
-![](D:\College\SixthTerm\artificai_Intelligence\Project\20190515_20190580_20190286\Gifs)
+https://github.com/marwana2001/Chinese_Checker/blob/main/Gif%201.gif 
