@@ -19,4 +19,11 @@ some inforamtion :
   3- we assign for each player set of positions to confirom if user or computer reach to goal or no
   
 #ScreenShots
-![](https://github.com/marwana2001/Chinese_Checker/blob/main/Gif%201.gif)
+  this screen explain how to move 
+![](https://github.com/marwana2001/Chinese_Checker/blob/main/3.gif)
+
+
+  this screen explain how to Jumb and when  
+![](https://github.com/marwana2001/Chinese_Checker/blob/main/2.gif)
+
+
