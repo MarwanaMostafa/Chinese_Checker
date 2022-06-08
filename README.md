@@ -18,3 +18,5 @@ some inforamtion :
   2-we assign for each player set of marbles 
   3- we assign for each player set of positions to confirom if user or computer reach to goal or no
   
+#ScreenShots
+![](D:\College\SixthTerm\artificai_Intelligence\Project\20190515_20190580_20190286\Gifs)
