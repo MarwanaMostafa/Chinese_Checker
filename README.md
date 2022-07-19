@@ -2,7 +2,7 @@
 Player Vs Computer . different Algorithms AI for computer .support different Levels (Easy,Medium,Hard).
 To run it, you must have python 3.6
 then download these library if you haven't 
-  1- tkinter
+  1-tkinter
   2-sys
   3-pygame.locals
   4-msilib.schema
