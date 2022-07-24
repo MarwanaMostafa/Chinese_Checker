@@ -1,29 +1,27 @@
 # Chinese_Checker
-Player Vs Computer . different Algorithms AI for computer .support different Levels (Easy,Medium,Hard).
-To run it, you must have python 3.6
-then download these library if you haven't 
-  1-tkinter
-  2-sys
-  3-pygame.locals
-  4-msilib.schema
-to run : 
-  1-Enter the level you want to play at
-  2-click on screen to start 
-  3-choose marble which do u need move 
-  4-choose destination 
-  5-click to finish 
+Player Vs Computer . different Algorithms AI(like Alpha-Beta Pruning, Min-Max) for computer .support different Levels (Easy,Medium,Hard). board divide 17 *25 and each player has set of marbles
 
-some inforamtion :
-  1- board divide 17 *25 
-  2-we assign for each player set of marbles 
-  3- we assign for each player set of positions to confirom if user or computer reach to goal or no
+
+## How To Run :
+  1- you must Install Python
   
-#ScreenShots
-  this screen explain how to move 
-![](https://github.com/marwana2001/Chinese_Checker/blob/main/3.gif)
+  2- you must Install libraries which using in project like (tkinter ,numby...)
+  
+## How to Play :
+ 
+  1-After installing 1, 2, run Project and enter the level you want to play against
+  
+  2-choose marble which do u need move 
 
+  3-choose destination
 
-  this screen explain how to Jumb and when  
-![](https://github.com/marwana2001/Chinese_Checker/blob/main/2.gif)
+## Rules Game :
+    __1- can move their piece to any adjacent empty hole like this : __
+      
+      ![](https://github.com/marwana2001/Chinese_Checker/blob/main/3.gif)
+
+    __2-A player’s piece can also hop over an adjacent piece, into an empty hole. That piece can be their own colored piece or the opponent piece. The player can             continually hop over subsequent pieces during that turn, and in any direction, as long as there are empty holes on the other side of those pieces.
+ 
+        ![](https://github.com/marwana2001/Chinese_Checker/blob/main/2.gif)
 
 
