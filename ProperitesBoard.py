@@ -197,7 +197,7 @@ def MOVE(board, move, pieces):
 
     piece = board[start_x][start_y]
     board[start_x][start_y] = 0#هنا صفر المكان اللى هشيل منه النود 
-    board[end_x][end_y] = piece#هنا غير القيمة اللى فى المكان ده ولاحظ ان انا بعمل كل ده فى نسخة من البوردة الاصلية مش البورده نفسها
+    board[end_x][end_y] = piece#هنا  بغير القيمة اللى فى المكان ده ولاحظ ان انا بعمل كل ده فى نسخة من البوردة الاصلية مش البورده نفسها
     remove = [[start_x, start_y]]
     new_set_pieces = [i for i in pieces +
                       remove if i not in pieces or i not in remove]
