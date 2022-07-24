@@ -162,7 +162,7 @@ def minimax(board, depth, player, first_player, player1_set, player2_set):
     moves = []
     for move in valid_moves:
         TEMPBOARD2 = copy.copy(TEMPBOARD)
-        new_board, new_set_pieces = MOVE(TEMPBOARD2, move, set_pieces)#هنا كل شوية بيحسب البوردة بشكلها الجديد لو جربت انقل نود من مكان لمكان
+        new_board, new_set_pieces = MOVE(TEMPBOARD2, move, set_pieces)
 
 
         player1_set, player2_set = \
