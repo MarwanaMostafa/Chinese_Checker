@@ -52,7 +52,7 @@ def main():
         draw_board(board, display_surface)
         for event in pg.event.get():
 
-            if event.type == QUIT:  # ملهاش لازمة الحتة دى
+            if event.type == QUIT: 
                 pg.quit()
                 sys.exit()
             if event.type == pg.MOUSEBUTTONDOWN and not game_over:
